@@ -1,7 +1,7 @@
 
 .simple-class {
     background-color: pink;
-    font-family:Verdana, DejaVu Sans, sans-serif;
+    font-family:Verdana, "DejaVu Sans", sans-serif;
     font-size: 24px;
 }
 
@@ -13,13 +13,8 @@
 #ID2 {
     background-color: lightgreen;
     font-weight: 700;
-    font-size: 32px;
 }
 
-.simple-class {
-    font-size: 24px;
-}
-.cool-class {
+.font-adjustment {
     font-size: 36px;
-    background-color: pink;
 }
